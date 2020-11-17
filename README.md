@@ -9,5 +9,6 @@ Undergraduate project for the elective course e-business
       για την παρουσίαση του καταλόγου προϊόντων και τη διαδικασία υποβολής παραγγελιών. 
 
 Στον παρακάτω σύνδεσμο υπάρχει ένα βίντεο λειτουρίας της ιστοσελίδας:
+      https://drive.google.com/file/d/1azsE4uqqs9iKK2tliFIBPZOoH8AQtqpS/view?usp=sharing
   
 
